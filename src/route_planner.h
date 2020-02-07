@@ -6,7 +6,6 @@
 #include <string>
 #include "route_model.h"
 
-static bool Compare(const RouteModel::Node *a, const RouteModel::Node *b);
 
 class RoutePlanner {
   public:
